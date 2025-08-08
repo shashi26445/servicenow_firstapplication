@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-08 17:01:15</sys_created_on>
+        <sys_id>54603fa883d322103fa1e070deaad38d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1818725_bot_supp_bot_application.x_1818725_bot_supp.bot_application_user</sys_name>
+        <sys_package display_value="Bot Support Team" source="x_1818725_bot_supp">dd20bba483d322103fa1e070deaad3fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bot Support Team">dd20bba483d322103fa1e070deaad3fa</sys_scope>
+        <sys_security_acl display_value="x_1818725_bot_supp_bot_application">94603fa883d322103fa1e070deaad38a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_54603fa883d322103fa1e070deaad38d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-08 17:01:15</sys_updated_on>
+        <sys_user_role display_value="x_1818725_bot_supp.bot_application_user" name="x_1818725_bot_supp.bot_application_user">0c607fa483d322103fa1e070deaad3e6</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
