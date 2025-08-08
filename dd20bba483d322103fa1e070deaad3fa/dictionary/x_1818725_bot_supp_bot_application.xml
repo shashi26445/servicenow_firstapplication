@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="db40bba883d322103fa1e070deaad3ba" label="Bot Application" max_length="40" name="x_1818725_bot_supp_bot_application" type="collection"/>
+    <element db_object_id="db40bba883d322103fa1e070deaad3ba" label="Bot Application" max_length="40" name="x_1818725_bot_supp_bot_application" type="collection">
+        <element label="Caller" mandatory="true" max_length="40" name="caller" type="string"/>
+        <element label="Category" max_length="40" name="category" type="string"/>
+        <element label="First Name" max_length="40" name="first_name" type="string"/>
+    </element>
 </database>
